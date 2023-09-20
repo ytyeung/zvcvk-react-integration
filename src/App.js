@@ -4,9 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Year Validation</h1>
-    </div>
+    <h1>React Application</h1>
   );
 }
 
